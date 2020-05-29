@@ -25,7 +25,7 @@ const App = () => {
   });
 
   if (error) {
-    alert(error);
+    // alert(error);
   }
 
   return (
